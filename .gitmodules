@@ -1,3 +1,6 @@
 [submodule "domains/quanttide-sample"]
 	path = domains/quanttide-sample
 	url = https://github.com/BlackCat205/quanttide-sample.git
+[submodule "domains/quanttide-sample3"]
+	path = domains/quanttide-sample3
+	url = https://github.com/BlackCat205/quanttide-sample3.git
