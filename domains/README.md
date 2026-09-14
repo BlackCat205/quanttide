@@ -6,12 +6,14 @@
 - domains/quanttide-sample。
 - domains/quanttide-sample3。
 - domains/quanttide-sample4。
+- domains/quanttide-sample5。
 
 ## 领域清单
 
 - [quanttide-sample](quanttide-sample/)。
 - [quanttide-sample3](quanttide-sample3/)。
 - [quanttide-sample4](quanttide-sample4/)。
+- [quanttide-sample5](quanttide-sample5/)。
 
 ## 领域项目
 
@@ -26,4 +28,8 @@
 ### quanttide-sample4
 
 仓库：https://github.com/BlackCat205/quanttide-sample4.git
+
+### quanttide-sample5
+
+仓库：https://github.com/BlackCat205/quanttide-sample5.git
 <!-- second-brain-init:domains-index:end -->

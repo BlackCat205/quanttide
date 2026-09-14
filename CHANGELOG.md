@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+- second-brain-init e0f015e10a81：new-domain。
+
 - second-brain-init c276e5bd2e93：new-domain。
 
 - second-brain-init 89b2e3e33f92：new-domain。
